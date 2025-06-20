@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "Programas de control y monitoreo para horno."
+authors:
+- family-names: Diana
+  given-names: Corona
+orcid: https://doi.org/10.5281/zenodo.15707915
+title:diana666c/Horno: Horno
+version: 1.0
+date-released: 2025-06-20
+                             
